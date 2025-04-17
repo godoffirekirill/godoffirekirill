@@ -27,6 +27,7 @@
 
 ### 🔹 [crypto-price-alert-app](https://github.com/godoffirekirill/crypto-price-alert-app)  
 Приложение уведомления об инзменении цены 
+
 ![](https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true)
 
 
