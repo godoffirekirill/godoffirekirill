@@ -39,7 +39,7 @@
 Приложение уведомления об изменении цены криптовалюты
 
 <div align="center">
-  <img src="https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true" width="600" height="600"/>
+  <img src="https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true" width="300"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@
 - Загружать аудиофайлы на указанный сервер  
 
 <div align="center">
-  <img src="https://github.com/godoffirekirill/testAppSysTech/blob/main/screenshots/Screenshot%202025-04-17%20at%2010.11.32.png?raw=true" width="600"/>
+  <img src="https://github.com/godoffirekirill/testAppSysTech/blob/main/screenshots/Screenshot%202025-04-17%20at%2010.11.32.png?raw=true" width="300"/>
 </div>
 
 ---
