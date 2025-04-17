@@ -20,12 +20,13 @@
 ➡️ Мультиязычность, роутинг, адаптив, хорошая архитектура, ESLint
 ![Темная тема](https://github.com/godoffirekirill/kode-intership-2025-react/blob/main/screenshots/Screenshot%202025-04-17%20at%2008.20.16.png?raw=true)
 
-### 🔹 [react-crm](https://github.com/godoffirekirill/react-crm)  
+### 🔹 [react-crm](https://github.com/godoffirekirill/car-crm-vite)  
 Прототип CRM-системы с управлением данными, фильтрацией и auth
 ![](https://github.com/godoffirekirill/car-crm-vite/blob/develop/screenshots/Screenshot%202025-04-17%20at%2008.53.33.png?raw=true)
 ![](https://github.com/godoffirekirill/car-crm-vite/blob/develop/screenshots/Screenshot%202025-04-17%20at%2008.53.47.png?raw=true)
 ![](https://github.com/godoffirekirill/car-crm-vite/blob/develop/screenshots/Screenshot%202025-04-17%20at%2008.53.56.png?raw=true)
 ![](https://github.com/godoffirekirill/car-crm-vite/blob/develop/screenshots/Screenshot%202025-04-17%20at%2008.54.17.png?raw=true)
+![](https://github.com/godoffirekirill/car-crm-vite/blob/develop/screenshots/Screenshot%202025-04-17%20at%2009.07.17.png?raw=true)
 
 ### 🔹 [auth-front](https://github.com/godoffirekirill/auth-front)  
 Фронтенд авторизации с Firebase и ролями
