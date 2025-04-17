@@ -39,7 +39,7 @@
 Приложение уведомления об изменении цены криптовалюты
 
 <div align="center">
-  <img src="https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true" width="600"/>
+  <img src="https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true" width="600" height="600"/>
 </div>
 
 ---
