@@ -37,7 +37,11 @@ AudioRecorderApp — это мобильное приложение, котор�
 Загружать аудиофайлы на указанный сервер
 ![](https://github.com/godoffirekirill/testAppSysTech/blob/main/screenshots/Screenshot%202025-04-17%20at%2010.11.32.png?raw=true)
 
+### 🔹 [hw2-Git-hw43](https://github.com/godoffirekirill/hw2-Git-hw43)  
+Firebase-магазин с ролями и админкой
+👤 Пользовательская и 🔐 Админская панель, управление товарами, корзина, авторизация — всё на React + Firebase + MUI
 
+![](https://github.com/godoffirekirill/hw2-Git-hw43/blob/main/screenshots/gigkaa.gif?raw=true)
 
 📬 Telegram: [@godoffirekirill](https://t.me/@godoffirekirill13)  
 📦 Портфолио-проекты: по ссылке или в диалоге
