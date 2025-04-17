@@ -18,6 +18,7 @@
 ### 🔹 [kode-intership-2025-react](https://github.com/godoffirekirill/kode-intership-2025-react)  
 Мощное тестовое задание на TypeScript + MUI + Redux Toolkit  
 ➡️ Мультиязычность, роутинг, адаптив, хорошая архитектура, ESLint
+![Темная тема](https://github.com/godoffirekirill/kode-intership-2025-react/blob/main/screenshots/Screenshot%202025-04-17%20at%2008.20.16.png?raw=true)
 
 ### 🔹 [react-crm](https://github.com/godoffirekirill/react-crm)  
 Прототип CRM-системы с управлением данными, фильтрацией и auth
