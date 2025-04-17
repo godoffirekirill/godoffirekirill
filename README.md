@@ -7,10 +7,10 @@
 - TypeScript,javaScript, Vite, Axios, i18next
 - Firebase, MUI (Material UI)
 - Работа с REST API, авторизация, формы, валидация
-- Много опта с Vercel, GitHub, ESLint, архитектура
+- Много опта с GitHub, ESLint, архитектура
 - backend node.js sql mongoDB, firebase 
 
-📚 Сейчас активно прокачиваю backend (Node.js, Express, MongoDB)
+📚 Сейчас активно прокачиваю backend (Node.js, sql Express, MongoDB, no sql)
 
 
 ## 💼 Проекты:
