@@ -24,11 +24,10 @@
 Прототип CRM-системы с управлением данными, фильтрацией и auth
 ![](https://github.com/godoffirekirill/screens/blob/main/Гифка%20с%20Gifius.ru.gif?raw=true)
 
-### 🔹 [auth-front](https://github.com/godoffirekirill/auth-front)  
-Фронтенд авторизации с Firebase и ролями
 
 ### 🔹 [crypto-price-alert-app](https://github.com/godoffirekirill/crypto-price-alert-app)  
 Приложение уведомления об инзменении цены 
+![](https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true)
 
 
 
