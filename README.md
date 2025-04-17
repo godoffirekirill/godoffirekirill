@@ -26,9 +26,16 @@
 
 
 ### 🔹 [crypto-price-alert-app](https://github.com/godoffirekirill/crypto-price-alert-app)  
-Приложение уведомления об инзменении цены 
+Приложение уведомления об инзменении цены криптовалюты
 
 ![](https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true)
+
+### 🔹 [testAppSysTech](https://github.com/godoffirekirill/testAppSysTech)  
+AudioRecorderApp — это мобильное приложение, которое позволяет:
+Записывать аудио с микрофона
+Устанавливать таймер для автоостановки
+Загружать аудиофайлы на указанный сервер
+![](https://github.com/godoffirekirill/testAppSysTech/blob/main/screenshots/Screenshot%202025-04-17%20at%2010.11.32.png?raw=true)
 
 
 
