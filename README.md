@@ -17,7 +17,7 @@
 - Много опыта с GitHub, ESLint, архитектура
 - Backend: Node.js, SQL, MongoDB, Firebase  
 
-📚 Сейчас активно прокачиваю backend (Node.js, SQL, Express, MongoDB, NoSQL)
+📚 Сейчас активно прокачиваю backend (Node.js)
 
 ---
 
