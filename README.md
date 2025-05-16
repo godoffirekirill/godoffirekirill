@@ -1,8 +1,7 @@
-# 👋 Привет! Я Кирилл — Java FullStack разработчик
+# 👋 Hello! I'm Kirill — Java FullStack Developer
+💻 I build adaptive, multilingual web applications using React and TypeScript with modern libraries and approaches.
 
-💻 Создаю адаптивные, мультиязычные веб-приложения на React и TypeScript с использованием современных библиотек и подходов.  
-
-🚀 Мой стек:
+🚀 My tech stack:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -17,15 +16,15 @@
 - Много опыта с GitHub, ESLint, архитектура
 - Backend: Node.js, SQL, MongoDB, Firebase  
 
-📚 Сейчас активно прокачиваю backend (Node.js)
+📚 Currently leveling up my backend skills (Node.js)
 
 ---
 
-## 💼 Проекты:
+## 💼 Projects:
 
 ### 🔹 [kode-intership-2025-react](https://github.com/godoffirekirill/kode-intership-2025-react)  
-Мощное тестовое задание на TypeScript + MUI + Redux Toolkit  
-➡️ Мультиязычность, роутинг, адаптив, хорошая архитектура, ESLint
+A robust test task built with TypeScript, MUI, and Redux Toolkit
+➡️ Multilingual, routing, adaptive design, solid architecture, ESLint
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/kode-intership-2025-react/blob/main/screenshots/Screenshot%202025-04-17%20at%2008.20.16.png?raw=true" width="600"/>
@@ -34,7 +33,7 @@
 ---
 
 ### 🔹 [react-crm](https://github.com/godoffirekirill/car-crm-vite)  
-Прототип CRM-системы с управлением данными, фильтрацией и авторизацией
+A CRM system prototype with data management, filtering, and authentication
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/screens/blob/main/Гифка%20с%20Gifius.ru.gif?raw=true" width="600"/>
@@ -43,7 +42,7 @@
 ---
 
 ### 🔹 [crypto-price-alert-app](https://github.com/godoffirekirill/crypto-price-alert-app)  
-Приложение уведомления об изменении цены криптовалюты
+A cryptocurrency price alert notification app
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/crypto-price-alert-app/blob/main/screenshots/Гифка%20с%20Gifius.ru.gif?raw=true" width="300"/>
@@ -52,10 +51,10 @@
 ---
 
 ### 🔹 [testAppSysTech](https://github.com/godoffirekirill/testAppSysTech)  
-**AudioRecorderApp** — мобильное приложение, которое позволяет:
-- Записывать аудио с микрофона  
-- Устанавливать таймер для автоостановки  
-- Загружать аудиофайлы на указанный сервер  
+AudioRecorderApp — a mobile app that enables:
+Audio recording via microphone
+Timer for auto-stop
+Uploading audio files to a specified server  
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/testAppSysTech/blob/main/screenshots/Screenshot%202025-04-17%20at%2010.11.32.png?raw=true" width="300"/>
@@ -64,8 +63,9 @@
 ---
 
 ### 🔹 [hw2-Git-hw43](https://github.com/godoffirekirill/hw2-Git-hw43)  
-Firebase-магазин с ролями и админкой  
-👤 Пользовательская и 🔐 Админская панель, управление товарами, корзина, авторизация — всё на React + Firebase + MUI
+A Firebase-based store with roles and admin panel
+
+👤 User and 🔐 Admin panels, product management, cart, authentication — all built with React, Firebase, and MUI
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/hw2-Git-hw43/blob/main/screenshots/gigkaa.gif?raw=true" width="600"/>
@@ -74,16 +74,18 @@ Firebase-магазин с ролями и админкой
 ---
 
 ### 🔹 [flight-tracker](https://github.com/godoffirekirill/flight-tracker)  
-Проект представляет собой Flight Tracker, разработанный специально для клиентов, использующих старые Android TV-приставки.  
-Приложение отображает актуальную информацию о рейсах в простом и удобном формате на большом экране.
+A Flight Tracker designed for clients using legacy Android TV boxes.
 
-🧩 Основные особенности:
-- Совместимость с Android 4.4+  
-- Упаковка web-приложения в APK через WebView  
-- Минималистичный и адаптированный под телевизоры UI  
-- Работа на слабых устройствах и старом браузерном движке  
-- Express.js и CORS — для стабильной локальной или внешней API-интеграции  
-- Полная кастомизация под заказчика  
+The app displays real-time flight information in a simple, TV-friendly format.
+
+🧩 Key features:
+
+Compatible with Android 4.4+
+Web app packaged as APK via WebView
+Minimalist, TV-optimized UI
+Runs on low-spec devices and outdated browser engines
+Express.js and CORS for stable local/external API integration
+Fully customizable for clients
 
 <div align="center">
   <img src="https://github.com/godoffirekirill/screens/blob/main/Screenshot%202025-04-17%20at%2014.03.44.png?raw=true" width="600"/>
@@ -92,4 +94,4 @@ Firebase-магазин с ролями и админкой
 ---
 
 📬 Telegram: [@godoffirekirill](https://t.me/@godoffirekirill13)  
-📦 Портфолио-проекты: по ссылке или в диалоге
+📦 Portfolio projects: Available via link or in conversation
