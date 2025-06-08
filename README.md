@@ -12,8 +12,8 @@
 - React, Redux Toolkit, React Router DOM
 - TypeScript, JavaScript, Vite, Axios, i18next
 - Firebase, MUI (Material UI)
-- Работа с REST API, авторизация, формы, валидация
-- Много опыта с GitHub, ESLint, архитектура
+- Working with REST API, authorization, forms, validation
+- Lots of experience with GitHub, ESLint, architecture
 - Backend: Node.js, SQL, MongoDB, Firebase  
 
 ---
