@@ -11,10 +11,10 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 - React, Redux Toolkit, React Router DOM
 - TypeScript, JavaScript, Vite, Axios, i18next
-- Firebase, MUI (Material UI)
+- MUI (Material UI)
 - Working with REST API, authorization, forms, validation
 - Lots of experience with GitHub, ESLint, architecture
-- Backend: Node.js, SQL, MongoDB, Firebase  
+- Backend: Node.js, Express, Joi validation, rate limiting, modular architecture, TypeScript, SQL, MongoDB, Firebase  
 
 ---
 
