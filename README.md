@@ -16,11 +16,22 @@
 - Много опыта с GitHub, ESLint, архитектура
 - Backend: Node.js, SQL, MongoDB, Firebase  
 
-📚 Currently leveling up my backend skills (Node.js)
-
 ---
 
 ## 💼 Projects:
+
+### 🔹 [heels-on-fire](https://github.com/godoffirekirill/heels-on-fire)
+[link on website](https://heelsonfire.ru)
+
+Landing page with form handling and honeypot spam protection
+➡️ React 19 + Vite, MUI Joy, TypeScript, Framer Motion, React Hook Form, adaptive layout
+🛠️ Backend: Node.js, Express, Joi validation, rate limiting, modular architecture, TypeScript
+
+<div align="center">
+  <img src="https://github.com/godoffirekirill/screens/blob/main/Screenshot%202025-06-08%20at%2015.49.42.png?raw=true" width="600"/>
+</div>
+
+---
 
 ### 🔹 [kode-intership-2025-react](https://github.com/godoffirekirill/kode-intership-2025-react)  
 A robust test task built with TypeScript, MUI, and Redux Toolkit
