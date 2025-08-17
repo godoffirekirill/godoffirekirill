@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Kirill — Java FullStack Developer
+# Kirill — Java FullStack Developer
 💻 I build adaptive, multilingual web applications using React and TypeScript with modern libraries and approaches.
 
 🚀 My tech stack:
