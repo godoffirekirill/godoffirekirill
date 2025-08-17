@@ -41,7 +41,7 @@ Full-featured **website with admin panel** built on **Next.js 15 + Tailwind**.
 - ✅ Adaptive design + animations with Framer Motion  
 
 <div align="center">
-  <img src="https://github.com/godoffirekirill/screens/blob/main/mobil-one-screenshot.png?raw=true" width="600"/>
+  <img src="https://github.com/godoffirekirill/screens/blob/main/Screenshot%202025-08-17%20at%2014.36.47.png?raw=true" width="600"/>
 </div>
 
 ---
